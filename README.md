@@ -9,6 +9,13 @@
 - `image_descriptor_models.py`: The file containing the image descriptor models used for generating the initial captions
 
 
+## Instructions to run
+
+1. Clone the repository
+2. Upload it to a HuggingFace Spaces repository
+3. Replace the dummy key with your own openai api key  `openai_api_key = "OPENAI_API_KEY"` in the `language_models.py` file
+
+
 ## Introduction
 
 This report discusses an approach for generating Instagram-worthy captions by combining image descriptions and large language models (LLMs). The objective is to produce captivating and stylistic captions for images, taking into consideration the limited resources available. The report outlines the approach using existing resources and presents an ideal scenario if additional resources were provided.
