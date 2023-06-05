@@ -1,6 +1,14 @@
 # AI Image captioning tool
 *A tool used to generate social media like captions for images. Check out the demo [here](https://vimeo.com/manage/videos/832600239)*
 
+
+## Files
+
+- `app.py`: The gradio application which contains the interface 
+- `language_models.py`: The file containing the language models used for prompting and re-generating the captions
+- `image_descriptor_models.py`: The file containing the image descriptor models used for generating the initial captions
+
+
 ## Introduction
 
 This report discusses an approach for generating Instagram-worthy captions by combining image descriptions and large language models (LLMs). The objective is to produce captivating and stylistic captions for images, taking into consideration the limited resources available. The report outlines the approach using existing resources and presents an ideal scenario if additional resources were provided.
