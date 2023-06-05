@@ -16,6 +16,25 @@
 3. Replace the dummy key with your own openai api key  `openai_api_key = "OPENAI_API_KEY"` in the `language_models.py` file
 
 
+## Demo
+![Link an image](./test-image.jpg)
+
+**Descriptions generated from the text to image models:**
+- a train travels through the hills
+- a train is going through a valley with houses and trees in the background.
+- there is a train that is going down the tracks in the mountains
+- an aerial view of a train traveling through the countryside . 
+- a train on a track
+
+**Captions generated from the LLMs:**
+1. take a ride on the rails of the train as it speeds through the countryside.
+2. soar high above the trees and hills as you watch the train glide by.
+3. travel down the tracks and enjoy the stunning view of a train in motion.
+4. Journey into the Unknown: As the Train Weaves Through Majestic Hills, I Embrace the Thrill of Adventure, Witnessing Nature's Magnificence Unfold from My Window.
+5. Traversing Scenic Wonderlands: A Charming Train Cuts Through a Lush Valley, Offering a Glimpse of Serene Homes and Verdant Canopies, Enchanting the Soul with Every Chug.
+6. The Beauty of Railways: From High Above, Witness the Graceful Dance of a Train as It Carves Its Path through Picturesque Countryside, Connecting the Dots of Natural Splendor.
+
+
 ## Introduction
 
 This report discusses an approach for generating Instagram-worthy captions by combining image descriptions and large language models (LLMs). The objective is to produce captivating and stylistic captions for images, taking into consideration the limited resources available. The report outlines the approach using existing resources and presents an ideal scenario if additional resources were provided.
